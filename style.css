@@ -1,0 +1,66 @@
+html {
+    background-color: rgb(161,214,178);
+}
+
+h1 {
+    background-color: rgb(206,223,159);
+}
+
+#align {
+    text-align: center;
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    background-color: rgb(241,243,194);
+}
+
+h3 {
+    background-color: rgb(234,184,109);
+}
+
+#Rights {
+    text-align: center;
+}
+
+#Name {
+    font-family: "Baskervville SC", serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+#Age {
+    font-family: "Baskervville SC", serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+#Summary {
+     font-family: "Baskervville SC", serif;
+     font-weight: 200;
+     font-style: normal;
+}
+
+#Education {
+    font-family: "Baskervville SC", serif;
+     font-weight: 200;
+     font-style: unset;
+}
+
+#Experience {
+    font-family: "Baskervville SC", serif;
+     font-weight: 200;
+     font-style: normal;
+}
+
+#Skills {
+    font-family: "Baskervville SC", serif;
+     font-weight: 200;
+     font-style: normal;
+}
+
+ul, ol {
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
